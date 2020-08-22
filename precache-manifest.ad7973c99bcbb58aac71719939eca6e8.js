@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f211e3f0b8536d0f954143c1e2f9301b",
+    "revision": "1b570566d8d750eba9bdc3bb144bdc0a",
     "url": "/RaviOjha-Protfolio/index.html"
   },
   {
-    "revision": "caf428a6629b4ebb32cc",
+    "revision": "87d52fb77eabfadc8437",
     "url": "/RaviOjha-Protfolio/static/css/2.e4346227.chunk.css"
   },
   {
-    "revision": "d35ed393e1b425fecc96",
+    "revision": "709b54795db548e5957b",
     "url": "/RaviOjha-Protfolio/static/css/main.354f2162.chunk.css"
   },
   {
-    "revision": "caf428a6629b4ebb32cc",
-    "url": "/RaviOjha-Protfolio/static/js/2.00188906.chunk.js"
+    "revision": "87d52fb77eabfadc8437",
+    "url": "/RaviOjha-Protfolio/static/js/2.abb6cde4.chunk.js"
   },
   {
     "revision": "7b16521b2b214bd3cdc23244c1721340",
-    "url": "/RaviOjha-Protfolio/static/js/2.00188906.chunk.js.LICENSE.txt"
+    "url": "/RaviOjha-Protfolio/static/js/2.abb6cde4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d35ed393e1b425fecc96",
-    "url": "/RaviOjha-Protfolio/static/js/main.c71ca206.chunk.js"
+    "revision": "709b54795db548e5957b",
+    "url": "/RaviOjha-Protfolio/static/js/main.34cbeaea.chunk.js"
   },
   {
     "revision": "5eafd59896a3316a30c5",
