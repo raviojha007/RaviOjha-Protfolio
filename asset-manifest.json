@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/RaviOjha-Protfolio/static/css/main.354f2162.chunk.css",
+    "main.js": "/RaviOjha-Protfolio/static/js/main.c71ca206.chunk.js",
+    "main.js.map": "/RaviOjha-Protfolio/static/js/main.c71ca206.chunk.js.map",
+    "runtime-main.js": "/RaviOjha-Protfolio/static/js/runtime-main.91d986fd.js",
+    "runtime-main.js.map": "/RaviOjha-Protfolio/static/js/runtime-main.91d986fd.js.map",
+    "static/css/2.e4346227.chunk.css": "/RaviOjha-Protfolio/static/css/2.e4346227.chunk.css",
+    "static/js/2.00188906.chunk.js": "/RaviOjha-Protfolio/static/js/2.00188906.chunk.js",
+    "static/js/2.00188906.chunk.js.map": "/RaviOjha-Protfolio/static/js/2.00188906.chunk.js.map",
+    "index.html": "/RaviOjha-Protfolio/index.html",
+    "precache-manifest.e2d31b7e9fe85492e5cac28440370876.js": "/RaviOjha-Protfolio/precache-manifest.e2d31b7e9fe85492e5cac28440370876.js",
+    "service-worker.js": "/RaviOjha-Protfolio/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/RaviOjha-Protfolio/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.354f2162.chunk.css.map": "/RaviOjha-Protfolio/static/css/main.354f2162.chunk.css.map",
+    "static/js/2.00188906.chunk.js.LICENSE.txt": "/RaviOjha-Protfolio/static/js/2.00188906.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91d986fd.js",
+    "static/css/2.e4346227.chunk.css",
+    "static/js/2.00188906.chunk.js",
+    "static/css/main.354f2162.chunk.css",
+    "static/js/main.c71ca206.chunk.js"
+  ]
+}
