@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/RaviOjha-Protfolio/static/css/main.354f2162.chunk.css",
-    "main.js": "/RaviOjha-Protfolio/static/js/main.147af6f5.chunk.js",
-    "main.js.map": "/RaviOjha-Protfolio/static/js/main.147af6f5.chunk.js.map",
+    "main.js": "/RaviOjha-Protfolio/static/js/main.f75526ea.chunk.js",
+    "main.js.map": "/RaviOjha-Protfolio/static/js/main.f75526ea.chunk.js.map",
     "runtime-main.js": "/RaviOjha-Protfolio/static/js/runtime-main.91d986fd.js",
     "runtime-main.js.map": "/RaviOjha-Protfolio/static/js/runtime-main.91d986fd.js.map",
     "static/css/2.e4346227.chunk.css": "/RaviOjha-Protfolio/static/css/2.e4346227.chunk.css",
     "static/js/2.f88b0521.chunk.js": "/RaviOjha-Protfolio/static/js/2.f88b0521.chunk.js",
     "static/js/2.f88b0521.chunk.js.map": "/RaviOjha-Protfolio/static/js/2.f88b0521.chunk.js.map",
     "index.html": "/RaviOjha-Protfolio/index.html",
-    "precache-manifest.438666c288a78f52ab451ead13d78256.js": "/RaviOjha-Protfolio/precache-manifest.438666c288a78f52ab451ead13d78256.js",
+    "precache-manifest.283f47e7c051e69fd94148f6c467e49d.js": "/RaviOjha-Protfolio/precache-manifest.283f47e7c051e69fd94148f6c467e49d.js",
     "service-worker.js": "/RaviOjha-Protfolio/service-worker.js",
     "static/css/2.e4346227.chunk.css.map": "/RaviOjha-Protfolio/static/css/2.e4346227.chunk.css.map",
     "static/css/main.354f2162.chunk.css.map": "/RaviOjha-Protfolio/static/css/main.354f2162.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.e4346227.chunk.css",
     "static/js/2.f88b0521.chunk.js",
     "static/css/main.354f2162.chunk.css",
-    "static/js/main.147af6f5.chunk.js"
+    "static/js/main.f75526ea.chunk.js"
   ]
 }
